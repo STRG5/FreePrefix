@@ -1,0 +1,7 @@
+name: FreePrefix
+author: STRG5
+version: ${project.version}
+main: de.strg5.freeprefix.FreePrefix
+
+commands:
+  freeprefix:
